@@ -8,10 +8,10 @@
 #define COLS 3
 
 // GPIO пины
-static const gpio_num_t row_pins[ROWS] = {GPIO_NUM_18, GPIO_NUM_5, GPIO_NUM_17,
-                                          GPIO_NUM_16};
+static const gpio_num_t row_pins[ROWS] = {GPIO_NUM_13, GPIO_NUM_12, GPIO_NUM_14,
+                                          GPIO_NUM_27};
 
-static const gpio_num_t col_pins[COLS] = {GPIO_NUM_4, GPIO_NUM_2, GPIO_NUM_15};
+static const gpio_num_t col_pins[COLS] = {GPIO_NUM_26, GPIO_NUM_25, GPIO_NUM_33};
 
 // Карта кнопок
 static const char keymap[ROWS][COLS] = {
