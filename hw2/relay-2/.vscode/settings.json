@@ -14,7 +14,7 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=/Users/vovababuskin/Documents/study/internet-of-things/hw2/relay/build"
+    "--compile-commands-dir=/Users/vovababuskin/Documents/study/internet-of-things/hw2/relay-2/build"
   ],
   "idf.flashType": "UART",
   "idf.currentSetup": "/Users/vovababuskin/esp/v5.5.2/esp-idf"

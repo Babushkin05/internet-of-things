@@ -1,3 +1,5 @@
+// КОД БРИГАДЫ 11 (БАБУШКИН, АНОХИН, ГОБЕЦ)
+
 #include "driver/gpio.h"
 #include "esp_rom_sys.h"
 #include "freertos/FreeRTOS.h"

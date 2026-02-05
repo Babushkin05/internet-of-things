@@ -1,12 +1,10 @@
 {
   "C_Cpp.intelliSenseEngine": "default",
-  "idf.espIdfPath": "/Users/vovababuskin/esp/v5.5.2/esp-idf",
-  "idf.pythonInstallPath": "/opt/homebrew/bin/python3",
   "idf.openOcdConfigs": [
     "board/esp32-wrover-kit-3.3v.cfg"
   ],
   "idf.port": "/dev/tty.usbserial-110",
-  "idf.toolsPath": "/Users/vovababuskin/.espressif",
+  "idf.currentSetup": "/Users/vovababuskin/esp/v5.5.2/esp-idf",
   "idf.customExtraVars": {
     "IDF_TARGET": "esp32"
   },
@@ -14,8 +12,7 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=/Users/vovababuskin/Documents/study/internet-of-things/hw2/relay/build"
+    "--compile-commands-dir=/Users/vovababuskin/Documents/study/internet-of-things/hw2/lock/build"
   ],
-  "idf.flashType": "UART",
-  "idf.currentSetup": "/Users/vovababuskin/esp/v5.5.2/esp-idf"
+  "idf.flashType": "UART"
 }
