@@ -16,5 +16,6 @@
     "--query-driver=**",
     "--compile-commands-dir=/Users/vovababuskin/led/build"
   ],
-  "idf.flashType": "UART"
+  "idf.flashType": "UART",
+  "idf.currentSetup": "/Users/vovababuskin/esp/v5.5.2/esp-idf"
 }
